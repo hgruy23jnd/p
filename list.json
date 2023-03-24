@@ -1,0 +1,21 @@
+{
+  "name": "PancakeSwap Altcoins",
+  "timestamp": "2023-03-22T09:19:06.161Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancakeswap", "binance", "mini program", "mini"],
+  "tokens": [
+    {
+      "name": "SUI Token",
+      "symbol": "SUI",
+      "address": "0x111111b32d8cdce7f2c0aa0d5ddb7c1ec1b7ddb6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hgruy23jnd/p/main/sui.png"
+    }
+  ]
+}
